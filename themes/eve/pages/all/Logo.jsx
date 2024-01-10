@@ -4,7 +4,7 @@ function Logo() {
   return (
     <div className="image">
       <a href="/">
-        <img src="/sporesun.png" alt="eve" />
+        <img src="/SporeSun.png" alt="Sporesun Logo" />
       </a>
     </div>
   );
