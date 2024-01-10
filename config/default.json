@@ -25,5 +25,10 @@
     },
     "system": {
         "theme": "eve"
+    },
+    "themeConfig":{
+        "headTags": {
+            "title": "Spores'n'More"
+        }
     }
 }
