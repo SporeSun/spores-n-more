@@ -10,11 +10,10 @@
     "user:create": "evershop user:create"
   },
   "dependencies": {
-    "@evershop/evershop": "1.0.0-rc.9"
+    "@evershop/evershop": "^1.0.0"
   },
   "engines": {
     "node": "18.x",
     "npm": "9.x"
   }
-
 }
